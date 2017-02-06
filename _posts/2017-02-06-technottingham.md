@@ -14,3 +14,7 @@ To follow along with the workshop, doing these things will be helpful!
 - Setup a [Heroku](https://signup.heroku.com/) account
 - Setup a [Slack team](https://slack.com/create)
 - Join the [LearnHubot Slack](https://learnhubot.herokuapp.com/)
+
+## Alternative frameworks
+
+- https://github.com/manthanhd/talkify
